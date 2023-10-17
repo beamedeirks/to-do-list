@@ -13,6 +13,34 @@ Foi utilizado as tecnologias:
 
 
 # Http Requests
+### Create [POST  /users/]
+
++ Request (application/json)
+
+    + Headers
+
+            Authorization: Bearer [access_token]
+
+    + Body
+
+            {
+              "nome": "Exemplo Company LTDA",
+              "fantasia": "",
+              "nomeParaContato": "Elfrieda",
+              "cpfcnpj": "83294489654",
+              "tipo": [
+                "cliente"
+              ],
+              "dtNasc": "1992-02-13",
+              "emails": [
+                "exemplo@example.com.br"
+              ],
+              "fones": [],
+            }
+
+
+
+
 ### POST: Create Users
 ```md
 http://localhost:8080/users/
