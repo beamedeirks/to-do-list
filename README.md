@@ -28,11 +28,12 @@ Foi utilizado as tecnologias:
             Authorization: Basic
 
     + Body
+      
       {
 	"name":"Beatriz Medeiros",
 	"username": "bea.medeiros",
 	"password":"12345"
-}
+	}
 
 
 ## Create [POST  /tasks/]
@@ -43,13 +44,14 @@ Foi utilizado as tecnologias:
             Authorization: Basic
 
     + Body
+      
       {
 	"description":"Tarefa para gravar para aula de Tasks do Curso de spring Boot",
 	"title":"Gravação de aula",
 	"priority":"ALTA",
 	"startAt": "2023-10-18T12:30:00",
 	"endAt":"2023-10-20T15:30:00"
-}
+	}
 
 ## List [GET  /tasks/]
 + Request (application/json)
@@ -66,6 +68,7 @@ Foi utilizado as tecnologias:
            Authorization: Basic
 
     + Body
+      
       {
-	title: "Alterando Tit"
-}
+	title: "Alterando Titulo"
+	}
