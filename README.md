@@ -17,6 +17,12 @@ Foi utilizado as tecnologias:
 ```md
 http://localhost:8080/users/
 ```
+    + Body
+  {
+	"name":"Beatriz Medeiros",
+	"username": "bea.medeiros",
+	"password":"12345"
+}
 
 ## POST: Create Tasks
 ```md
