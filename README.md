@@ -13,16 +13,17 @@ Foi utilizado as tecnologias:
 
 
 # Http Requests
-## POST: Create Users
+### POST: Create Users
 ```md
 http://localhost:8080/users/
 ```
++ Request
     + Body
-  {
-	"name":"Beatriz Medeiros",
-	"username": "bea.medeiros",
-	"password":"12345"
-}
+      {
+	  "name":"Beatriz Medeiros",
+	  "username": "bea.medeiros",
+	  "password":"12345"
+      }
 
 ## POST: Create Tasks
 ```md
