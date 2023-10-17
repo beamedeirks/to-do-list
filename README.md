@@ -13,8 +13,22 @@ Foi utilizado as tecnologias:
 
 
 # Http Requests
-## GET: Create Users
+## POST: Create Users
 ```md
 http://localhost:8080/users/
 ```
 
+## POST: Create Tasks
+```md
+http://localhost:8080/tasks/
+```
+
+## GET: List Tasks
+```md
+http://localhost:8080/tasks/
+```
+
+## PUT: Update Tasks
+```md
+http://localhost:8080/tasks/
+```
