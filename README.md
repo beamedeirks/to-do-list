@@ -24,19 +24,10 @@ Foi utilizado as tecnologias:
     + Body
 
             {
-              "nome": "Exemplo Company LTDA",
-              "fantasia": "",
-              "nomeParaContato": "Elfrieda",
-              "cpfcnpj": "83294489654",
-              "tipo": [
-                "cliente"
-              ],
-              "dtNasc": "1992-02-13",
-              "emails": [
-                "exemplo@example.com.br"
-              ],
-              "fones": [],
-            }
+	  "name":"Beatriz Medeiros",
+	  "username": "bea.medeiros",
+	  "password":"12345"
+     		 }
 
 
 
