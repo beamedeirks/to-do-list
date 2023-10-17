@@ -23,11 +23,11 @@ Foi utilizado as tecnologias:
 
     + Body
 
-            {
-	  "name":"Beatriz Medeiros",
+           {
+             "name":"Beatriz Medeiros",
 	  "username": "bea.medeiros",
 	  "password":"12345"
-     		 }
+            }
 
 
 
