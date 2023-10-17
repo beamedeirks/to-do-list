@@ -30,5 +30,5 @@ http://localhost:8080/tasks/
 
 ## PUT: Update Tasks
 ```md
-http://localhost:8080/tasks/
+http://localhost:8080/tasks/{id}
 ```
