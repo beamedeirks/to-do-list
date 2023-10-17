@@ -13,8 +13,8 @@ Foi utilizado as tecnologias:
 
 
 # Http Requests
-## Create Users
+## GET: Create Users
 ```md
-GET: http://localhost:8080/users/
+http://localhost:8080/users/
 ```
 
