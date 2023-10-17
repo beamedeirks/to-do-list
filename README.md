@@ -1,5 +1,3 @@
-# to-do-list
-
 ## 💻 Projeto do curso de Java da RocketSeat
 
 O projeto é uma API de To Do List, onde o usuário poderá cadastrar, alterar e listar suas tarefas.
