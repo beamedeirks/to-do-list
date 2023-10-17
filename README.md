@@ -32,7 +32,7 @@ Foi utilizado as tecnologias:
 
 
 
-### POST: Create Users
+### Create [POST  /users/]
 ```md
 http://localhost:8080/users/
 ```
@@ -44,17 +44,17 @@ http://localhost:8080/users/
 	  "password":"12345"
       }
 
-## POST: Create Tasks
+## Create [POST  /tasks/]
 ```md
 http://localhost:8080/tasks/
 ```
 
-## GET: List Tasks
+## List [GET  /tasks/]
 ```md
 http://localhost:8080/tasks/
 ```
 
-## PUT: Update Tasks
+## Update [PUT  /tasks/{id}]
 ```md
 http://localhost:8080/tasks/{id}
 ```
