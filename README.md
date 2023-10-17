@@ -14,6 +14,7 @@ Foi utilizado as tecnologias:
 
 # Http Requests
 ## Create User
+```md
+http://localhost:8080/users/
+```
 
-
-[![beammm218](https://github-readme-stats.vercel.app/api/top-langs/?username=beammm218&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
