@@ -25,7 +25,7 @@ Foi utilizado as tecnologias:
 
     + Headers
 
-            Authorization: Bearer [access_token]
+            Authorization: Basic
 
     + Body
 
@@ -35,7 +35,7 @@ Foi utilizado as tecnologias:
 
     + Headers
 
-            Authorization: Bearer [access_token]
+            Authorization: Basic
 
     + Body
 
@@ -44,7 +44,7 @@ Foi utilizado as tecnologias:
 
     + Headers
 
-            Authorization: Bearer [access_token]
+           Authorization: Basic
 
     + Body
 
@@ -53,6 +53,6 @@ Foi utilizado as tecnologias:
 
     + Headers
 
-            Authorization: Bearer [access_token]
+           Authorization: Basic
 
     + Body
