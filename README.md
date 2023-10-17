@@ -17,44 +17,42 @@ Foi utilizado as tecnologias:
 
 + Request (application/json)
 
+    + Body
+
+
+### Create [POST  /users/]
++ Request (application/json)
+
     + Headers
 
             Authorization: Bearer [access_token]
 
     + Body
 
-           {
-             "name":"Beatriz Medeiros",
-	     "username": "bea.medeiros",
-	     "password":"12345"
-      		}
-
-
-
-
-### Create [POST  /users/]
-```md
-http://localhost:8080/users/
-```
-+ Request
-    + Body
-      {
-	  "name":"Beatriz Medeiros",
-	  "username": "bea.medeiros",
-	  "password":"12345"
-      }
 
 ## Create [POST  /tasks/]
-```md
-http://localhost:8080/tasks/
-```
++ Request (application/json)
+
+    + Headers
+
+            Authorization: Bearer [access_token]
+
+    + Body
 
 ## List [GET  /tasks/]
-```md
-http://localhost:8080/tasks/
-```
++ Request (application/json)
+
+    + Headers
+
+            Authorization: Bearer [access_token]
+
+    + Body
 
 ## Update [PUT  /tasks/{id}]
-```md
-http://localhost:8080/tasks/{id}
-```
++ Request (application/json)
+
+    + Headers
+
+            Authorization: Bearer [access_token]
+
+    + Body
