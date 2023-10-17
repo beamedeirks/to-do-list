@@ -1,0 +1,10 @@
+br\com\beamedeiros\todolist\errors\ExceptionHandlerController.class
+br\com\beamedeiros\todolist\user\IUserRepository.class
+br\com\beamedeiros\todolist\filter\FilterTaskAuth.class
+br\com\beamedeiros\todolist\task\ITaskRepository.class
+br\com\beamedeiros\todolist\utils\Utils.class
+br\com\beamedeiros\todolist\task\TaskController.class
+br\com\beamedeiros\todolist\user\UserController.class
+br\com\beamedeiros\todolist\user\UserModel.class
+br\com\beamedeiros\todolist\ToDoListApplication.class
+br\com\beamedeiros\todolist\task\TaskModel.class
